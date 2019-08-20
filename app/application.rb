@@ -6,7 +6,7 @@ class Application
     
     
     if 
-    
+    resp.write = 
     resp.finish
   end
 end
