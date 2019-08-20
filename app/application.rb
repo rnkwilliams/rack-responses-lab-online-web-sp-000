@@ -6,7 +6,11 @@ class Application
     
     
     if 
-    resp.write = 
+    resp.write "Good Morning!"
+    else
+    resp.write "Good Afternoon!"
+    end
+    
     resp.finish
   end
 end
